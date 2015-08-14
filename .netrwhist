@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/hjm/work/android/workdir/packages/apps/UstcDroid/src/com/jianmeng/ustcdroid'
+let g:netrw_dirhist_2='/home/hjm/work/android/workdir/libcore/dalvik/src/main/java/dalvik/system'
+let g:netrw_dirhist_3='/home/hjm/work/android/workdir/dalvik/vm/oo'
+let g:netrw_dirhist_4='/home/hjm/.vim/templates'
