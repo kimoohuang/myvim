@@ -532,5 +532,5 @@ imap jj <Esc>
 
 """""""""""""""""""""""
 ""latex-suite
-set spell
+"set spell
 
