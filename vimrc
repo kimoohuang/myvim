@@ -201,21 +201,6 @@ autocmd BufReadPost *
 " Always hide the statusline
 set laststatus=2
 
-"Git branch
-"function! GitBranch()
-"    try
-"        let branch = system("git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* //'")
-"    catch
-"        return ''
-"    endtry
-"
-"    if branch != ''
-"        return '   Git Branch: ' . substitute(branch, '\n', '', 'g')
-"    en
-"
-"    return ''
-"endfunction
-"
 "function! CurDir()
 "    return substitute(getcwd(), '/Users/amir/', "~/", "g")
 "endfunction
