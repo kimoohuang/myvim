@@ -228,7 +228,7 @@ function! HasPaste()
 endfunction
 
 " Format the statusline
-set statusline=\ %{HasPaste()}%F%m%r%h\ %w\ \ \ Position:\ %l,%c/%L
+set statusline=\ %{HasPaste()}%F%m%r%h\ %w\ %{GitBranchInfoString()}\ \ Position:\ %l,%c/%L
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
