@@ -1,0 +1,864 @@
+
+已经只剩一个标签页了
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+[global] /Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11
+chdir(/Users/jianmeng/.vim/.git)
+fchdir() to previous dir
+chdir(/Users/jianmeng/.vim/.git)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d10)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d10)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/.vim/.git)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+"d3d11_device.cpp" 
+"d3d11_device.cpp" 3411L, 118034B
+读取 viminfo 文件 "/Users/jianmeng/.viminfo" 标记 失败
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+执行 FileType 自动命令 "*"
+自动命令 call LoadFTPlugin()
+
+chdir(/usr/share/vim/vim90/ftplugin)
+fchdir() to previous dir
+第 18 行: 执行 "/usr/share/vim/vim90/ftplugin/cpp.vim"
+chdir(/usr/share/vim/vim90/ftplugin)
+fchdir() to previous dir
+第 12 行: 执行 "/usr/share/vim/vim90/ftplugin/c.vim"
+结束执行 /usr/share/vim/vim90/ftplugin/c.vim
+在 /usr/share/vim/vim90/ftplugin/cpp.vim 中继续
+结束执行 /usr/share/vim/vim90/ftplugin/cpp.vim
+在 <SNR>6_LoadFTPlugin 中继续
+执行 FileType 自动命令 "*"
+自动命令 call s:LoadIndent()
+
+chdir(/usr/share/vim/vim90/indent)
+fchdir() to previous dir
+第 14 行: 执行 "/usr/share/vim/vim90/indent/cpp.vim"
+结束执行 /usr/share/vim/vim90/indent/cpp.vim
+在 <SNR>7_LoadIndent 中继续
+执行 FileType 自动命令 "*"
+自动命令 0verbose exe "set syntax=" . expand("<amatch>")
+
+在 'runtimepath' 中找不到："spell/en.vim"
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+"d3d11_device.h" 
+"d3d11_device.h" 859L, 31264B
+读取 viminfo 文件 "/Users/jianmeng/.viminfo" 标记 失败
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+执行 FileType 自动命令 "*"
+自动命令 call LoadFTPlugin()
+
+chdir(/usr/share/vim/vim90/ftplugin)
+fchdir() to previous dir
+第 18 行: 执行 "/usr/share/vim/vim90/ftplugin/cpp.vim"
+chdir(/usr/share/vim/vim90/ftplugin)
+fchdir() to previous dir
+第 12 行: 执行 "/usr/share/vim/vim90/ftplugin/c.vim"
+结束执行 /usr/share/vim/vim90/ftplugin/c.vim
+在 /usr/share/vim/vim90/ftplugin/cpp.vim 中继续
+结束执行 /usr/share/vim/vim90/ftplugin/cpp.vim
+在 <SNR>6_LoadFTPlugin 中继续
+执行 FileType 自动命令 "*"
+自动命令 call s:LoadIndent()
+
+chdir(/usr/share/vim/vim90/indent)
+fchdir() to previous dir
+第 14 行: 执行 "/usr/share/vim/vim90/indent/cpp.vim"
+结束执行 /usr/share/vim/vim90/indent/cpp.vim
+在 <SNR>7_LoadIndent 中继续
+执行 FileType 自动命令 "*"
+自动命令 0verbose exe "set syntax=" . expand("<amatch>")
+
+在 'runtimepath' 中找不到："spell/en.vim"
+结束执行 /Users/jianmeng/.vimsession.vim
+在 LoadSession 中继续
+执行 VimEnter 自动命令 "*"
+自动命令 call s:Bookmark.CacheBookmarks(0)
+
+自动命令 runtime! nerdtree_plugin/**/*.vim
+
+在 'runtimepath' 中找不到："nerdtree_plugin/**/*.vim"
+执行 VimEnter 自动命令 "*"
+自动命令 silent! autocmd! FileExplorer
+
+自动命令 call s:checkForBrowse(expand("<amatch>"))
+
+执行 VimEnter 自动命令 "*"
+自动命令 :if has('clipboard') | call <SID>YRFocusGained() | endif
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 BufLeave 自动命令 "*"
+自动命令 call s:Remove_Matches()
+
+执行 WinLeave 自动命令 "*"
+自动命令 :call <SID>YRWinLeave()
+
+执行 WinLeave 自动命令 "*"
+自动命令 call s:Remove_Matches()
+
+执行 WinEnter 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 BufEnter 自动命令 "*"
+自动命令 call s:GitBranchInfoInit()
+
+执行 BufEnter 自动命令 "*"
+自动命令 call s:checkForBrowse(expand("<amatch>"))
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 FocusGained 自动命令 "*"
+自动命令 :if has('clipboard') | call <SID>YRFocusGained() | endif
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 BufLeave 自动命令 "*"
+自动命令 call s:Remove_Matches()
+
+执行 WinLeave 自动命令 "*"
+自动命令 :call <SID>YRWinLeave()
+
+执行 WinLeave 自动命令 "*"
+自动命令 call s:Remove_Matches()
+
+执行 WinEnter 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 BufEnter 自动命令 "*"
+自动命令 call s:GitBranchInfoInit()
+
+执行 BufEnter 自动命令 "*"
+自动命令 call s:checkForBrowse(expand("<amatch>"))
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+/------ 
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 WinScrolled 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+
+执行 VimLeave 自动命令 "*"
+自动命令 call SaveSession()
+
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+已经只剩一个标签页了
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+[global] /Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11
+chdir(/Users/jianmeng/.vim/.git)
+fchdir() to previous dir
+chdir(/Users/jianmeng/.vim/.git)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d10)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d10)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/.vim/.git)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+"d3d11_device.cpp" 
+"d3d11_device.cpp" 3411L, 118034B
+读取 viminfo 文件 "/Users/jianmeng/.viminfo" 标记 失败
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+执行 FileType 自动命令 "*"
+自动命令 call LoadFTPlugin()
+
+chdir(/usr/share/vim/vim90/ftplugin)
+fchdir() to previous dir
+第 18 行: 执行 "/usr/share/vim/vim90/ftplugin/cpp.vim"
+chdir(/usr/share/vim/vim90/ftplugin)
+fchdir() to previous dir
+第 12 行: 执行 "/usr/share/vim/vim90/ftplugin/c.vim"
+结束执行 /usr/share/vim/vim90/ftplugin/c.vim
+在 /usr/share/vim/vim90/ftplugin/cpp.vim 中继续
+结束执行 /usr/share/vim/vim90/ftplugin/cpp.vim
+在 <SNR>6_LoadFTPlugin 中继续
+执行 FileType 自动命令 "*"
+自动命令 call s:LoadIndent()
+
+chdir(/usr/share/vim/vim90/indent)
+fchdir() to previous dir
+第 14 行: 执行 "/usr/share/vim/vim90/indent/cpp.vim"
+结束执行 /usr/share/vim/vim90/indent/cpp.vim
+在 <SNR>7_LoadIndent 中继续
+执行 FileType 自动命令 "*"
+自动命令 0verbose exe "set syntax=" . expand("<amatch>")
+
+在 'runtimepath' 中找不到："spell/en.vim"
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+"d3d11_device.h" 
+"d3d11_device.h" 859L, 31264B
+读取 viminfo 文件 "/Users/jianmeng/.viminfo" 标记 失败
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
+fchdir() to previous dir
+执行 FileType 自动命令 "*"
+自动命令 call LoadFTPlugin()
+
+chdir(/usr/share/vim/vim90/ftplugin)
+fchdir() to previous dir
+第 18 行: 执行 "/usr/share/vim/vim90/ftplugin/cpp.vim"
+chdir(/usr/share/vim/vim90/ftplugin)
+fchdir() to previous dir
+第 12 行: 执行 "/usr/share/vim/vim90/ftplugin/c.vim"
+结束执行 /usr/share/vim/vim90/ftplugin/c.vim
+在 /usr/share/vim/vim90/ftplugin/cpp.vim 中继续
+结束执行 /usr/share/vim/vim90/ftplugin/cpp.vim
+在 <SNR>6_LoadFTPlugin 中继续
+执行 FileType 自动命令 "*"
+自动命令 call s:LoadIndent()
+
+chdir(/usr/share/vim/vim90/indent)
+fchdir() to previous dir
+第 14 行: 执行 "/usr/share/vim/vim90/indent/cpp.vim"
+结束执行 /usr/share/vim/vim90/indent/cpp.vim
+在 <SNR>7_LoadIndent 中继续
+执行 FileType 自动命令 "*"
+自动命令 0verbose exe "set syntax=" . expand("<amatch>")
+
+在 'runtimepath' 中找不到："spell/en.vim"
+结束执行 /Users/jianmeng/.vimsession.vim
+在 LoadSession 中继续
+执行 VimEnter 自动命令 "*"
+自动命令 call s:Bookmark.CacheBookmarks(0)
+
+自动命令 runtime! nerdtree_plugin/**/*.vim
+
+在 'runtimepath' 中找不到："nerdtree_plugin/**/*.vim"
+执行 VimEnter 自动命令 "*"
+自动命令 silent! autocmd! FileExplorer
+
+自动命令 call s:checkForBrowse(expand("<amatch>"))
+
+执行 VimEnter 自动命令 "*"
+自动命令 :if has('clipboard') | call <SID>YRFocusGained() | endif
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 FocusGained 自动命令 "*"
+自动命令 :if has('clipboard') | call <SID>YRFocusGained() | endif
+
+执行 FocusGained 自动命令 "*"
+自动命令 :if has('clipboard') | call <SID>YRFocusGained() | endif
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+查找 tag 文件 /Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/tags
+查找 tag 文件 /Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/tags
+  # pri kind tag               文件
+  1 F   f    D3D11SwapChain    /Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11/d3d11_swapchain.cpp
+               class:dxvk::D3D11SwapChain
+               D3D11SwapChain::D3D11SwapChain(
+  2 F   c    D3D11SwapChain    /Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11/d3d11_swapchain.h
+               namespace:dxvk
+               class D3D11SwapChain : public ComObject<IDXGIVkSwapChain> {
+  3 F   f    D3D11SwapChain    /Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11/d3d11_swapchain.cpp
+               class:dxvk::D3D11SwapChain
+               D3D11SwapChain::D3D11SwapChain(
+  4 F   c    D3D11SwapChain    /Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11/d3d11_swapchain.h
+               namespace:dxvk
+               class D3D11SwapChain : public ComObject<IDXGIVkSwapChain> {
+输入数字并回车（q 或者空取消）：
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+-- 插入 --
+执行 CursorMovedI 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 TextChangedI 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMovedI 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 TextChangedI 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMovedI 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 TextChangedI 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMovedI 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 TextChangedI 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMovedI 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 TextChangedI 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 CursorMovedI 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 TextChangedI 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+
+执行 InsertLeave 自动命令 "*"
+自动命令 call s:SetDefaultCompletionType()
+
+执行 InsertLeave 自动命令 "*"
+自动命令 :call <SID>YRInsertLeave()
+
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 TextChanged 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+1 行发生改变；before #1  3 秒前
+执行 CursorMoved 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+执行 TextChanged 自动命令 "*"
+自动命令 call s:Highlight_Matching_Pair()
+
+1 行发生改变；before #1  3 秒前
+
+执行 VimLeave 自动命令 "*"
+自动命令 call SaveSession()
+
+chdir(/Users/jianmeng/work/SourceCodes/DXVK_github/dxvk/src/d3d11)
